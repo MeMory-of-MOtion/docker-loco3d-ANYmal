@@ -17,6 +17,14 @@ The Loco3D docker is a packaging-from-binary solution to help a new user to simp
 
 The dataset can be downloaded with the following links : 
 
+http://hanoi.laas.fr:8080/v1.2/anymal_circle.tar
+
+http://hanoi.laas.fr:8080/v1.2/anymal_circle_oriented.tar
+
+http://hanoi.laas.fr:8080/v1.2/anymal_platform_random.tar
+
+
+
 # Test scenario description
 
 The following scenarios use the robot ANYmal with various environments and locomotion tasks. 
